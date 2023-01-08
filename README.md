@@ -21,7 +21,7 @@ This is a terminal version of Bobux Bot's `/adventure` game. You can play it on 
     ```
 
 ## Controls
-`ESC` - exit
-`AWSD` - movement
-`R` - regenerate map
-`C` - show whole map (cheatcode)
+- `ESC` - exit
+- `AWSD` - movement
+- `R` - regenerate map
+- `C` - show whole map (cheatcode)
